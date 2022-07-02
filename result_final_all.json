@@ -1,0 +1,4302 @@
+{
+    "rachel@tmladvertising.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jkatz@tacticalsales.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 <jkatz@tacticalsales.com> User unknown"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "udeme@superpow.app": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "emily.gumpel@axiell.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [HE1EUR02FT034.eop-EUR02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "megan.bearry@120water.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sean@griffinstucco.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.1 <sean@griffinstucco.com>: Recipient address rejected: ERS-DUL."
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "snovak@hq.bill.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "frate@buckleyking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "matt.kolander@openworksweb.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM10FT068.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kathleen.anderson@ttuhsc.edu": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "phani_potturu@eogresources.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT010.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "matthew.baker@ipaper.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.0 ETP202 Your IP 182.185.164.83 is listed by Spamhaus. Please see http://www.spamhaus.org/query/ if you feel this is in error - DE1E14549C3388B26425e0038"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jrodenas@amgen.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CO1NAM11FT052.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "j.kimball@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <j.kimball@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "stacia_bradley@comcast.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "nathan@discoverorganizing.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "tim@fyxation.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "elizabeth.cardozo@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "greig.sharratt@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "draper.hall@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "tracy.simonetti@walgreens.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <tracy.simonetti@walgreens.com> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "vijay_movva@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "joni_pierce@cable.comcast.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "bradley.snyder@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT063.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lester@chiefrevenueofficer.ca": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "j.pooley@tdpagency.co.uk": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [AM5EUR02FT082.eop-EUR02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "zeeshan@stimprovements.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "\"JunkMail rejected - (3.10.168.192.in-addr.arpa) [182.185.164.83]:56452 is\nin an RBL: https://www.spamhaus.org/query/ip/182.185.164.83\""
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "mich@maguiremarketinggroup.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jason@clari.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gkametches@g2surfaces.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "stacey@teamzealios.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sidarth.wakhlu@utsouthwestern.edu": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "182.185.164.83 is listed at xbl.spamhaus.org\nPlease refer to https://www.spamhaus.org/query/ip/182.185.164.83\nfor an explanation."
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "manning_fendrich@dell.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kimberly.baker@insperity.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM12FT026.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "rahul.sharma@ngc.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <rahul.sharma@ngc.com> ok"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "anaw@amgen.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CO1NAM11FT042.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "steve.murphy@ngc.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <steve.murphy@ngc.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "adesai@ocutx.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [WIi3tLyOMICOv99pZZMUkQ.us581]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "cmusco@wfscorp.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM10FT018.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ben.stauber@cbs.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "kevin.powell@tn.gov": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "troy.boyko@gfs.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "leslie.godridge@usbank.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "rockford.coscia@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "peter.jones@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jon.goodall@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "felicity.cooper@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "lara.a.rosas@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lauren_collins@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "robert.towne@tangoe.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM3NAM02FT004.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "raymercer@findadream.org": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Sender () has no A, AAAA, or MX DNS records."
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "gina.dicarlo@macys.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "bruns_elizabeth_ann@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <bruns_elizabeth_ann@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mark.mercer@aecom.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "adavis@orthoatlanta.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM04FT013.eop-NAM04.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "aniruddha_pal@amat.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "kunal.chourey@abbvie.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <kunal.chourey@abbvie.com> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "praveen.guduru@bedbath.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "Recipient <praveen.guduru@bedbath.com> OK"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "tvenable@entergy.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM3GCC02FT014.eop-gcc02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "robert.carnesi@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "joseph.cramer@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jacob.bensasson@pfizer.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.0 Local Policy Violation"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "klambert@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CD1PEPF000006AE.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "helen.lee@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "terrik@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM3NAM06FT015.Eop-nam06.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "hayley.mclean@sse.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mihai.bocai@productlead.me": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jorge.pulido@urbanitae.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "james@voystar.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "david@mccmemphis.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT048.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "traci.curran@actian.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [hJhVECCXM_215bEGTF7FDA.uk207]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "yogesh.kulkarni@icertis.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [SG2APC01FT0066.eop-APC01.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "joy.taylor@ti.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "veleza@oxydeusa.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "collins_brendon_william@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <collins_brendon_william@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gambrosia@carnival.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [SN1NAM02FT0041.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kate.tomlinson@rbs.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <kate.tomlinson@rbs.com> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "nantz_eric@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <nantz_eric@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ssteggerda@calithera.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM12FT044.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "chelsea@fourstarrealty.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "paul.gately@buzzardsbrew.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Sender () has no A, AAAA, or MX DNS records."
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "ehood@salesforce.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "craig.fischer@sands.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM12FT056.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kristin.tompkins@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "steve.jenkins@sherwin.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jose.saavedra@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "julie.diehl@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cengland@humana.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "robert.carloff@aig.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "binilp@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CB1PEPF0000205F.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "alastair.sinclair@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "rene.lammers@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM12FT018.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "simon.prodger@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BL2NAM06FT009.Eop-nam06.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "douglas.healy@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM12FT019.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sandeep.singh@molinahealthcare.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "cmiles@tailoredmanagement.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "4.7.1 <cmiles@tailoredmanagement.com>: Relay access denied"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jean-dominique.bataille@onethird.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "todd@umaweb.org": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "juliana@wildtype.media": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "johnson@rembrandtip.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM10FT010.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "flavio@sherlockfinder.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "katherine@humesupernatural.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gerald.jackson@sabre.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "philip.cunningham@astrazeneca.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Internal resource temporarily unavailable - https://community.mimecast.com/docs/DOC-1369#451 [9f-EROyfOd6EhzNrYtmSuQ.de11]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "ashima.bajpai@amgen.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM11FT056.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "todd.henderson@ngc.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <todd.henderson@ngc.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "marke@ifftcpa.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [SN1NAM02FT0036.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cmongillo@fmagreenhill.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "judith.hudler@scoopandspoon.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [AM5EUR03FT046.eop-EUR03.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "bhavik.patel@blackrock.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "simon.barr@blackrock.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "maria.collins@capitalone.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jvaldivia@fleetio.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jennifer.wicker@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "scott.rosenberg@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kennith.jefferson@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "catherine.stafford@dteenergy.com": {
+        "lionfish": {
+            "status": "unknown",
+            "reason": "unknown"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sthrall@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CB1PEPF00003669.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "huff.ha@pg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "pmarinov@tcimarketingservices.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT061.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gary.burnison@kornferry.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <gary.burnison@kornferry.com> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "richard.moriarty@caa.co.uk": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [VE1EUR03FT028.eop-EUR03.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "christian.arrayago@megatrans.com.ar": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "patrickyork@hiretual.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jadams@lionslighthouse.org": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM12FT032.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "christina.kosmowski@logicmonitor.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "matt.burton@valero.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "gino.reyes@coniferhealth.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "nelson@stebbings.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Sender () has no A, AAAA, or MX DNS records."
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "serena@bartersys.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT046.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "teresa@autoalt.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sschinski@apple.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "joseph.blackner@walmart.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "merrily.antony@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "wmalaska@salesforce.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "dbernhardt@salesforce.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "ben.turney@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "angel.motomal@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT061.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "wmthor.kissman@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "shannon.nardone@delta.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "greta.cesareo@bankofamerica.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "danielle.trunnell@bankofamerica.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "suk.et@pg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "kevin.sharp@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM3NAM06FT007.Eop-nam06.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jerry.a.bushue@boeing.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.0.0 <jerry.a.bushue@boeing.com>... User unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "rharrison@rhinoconstruction.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "lara@expopass.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "bergen@speakeasypolitical.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jess.gingrich@usaa.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "manjunath.nagarajaiah@sabre.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "moneill@eagle.org": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "latishia.naidoo@cummins.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN7NAM10FT019.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "chris.horsburgh@wellcare.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "craig.boyd@ngc.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <craig.boyd@ngc.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cheetham_laura@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <cheetham_laura@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "sorin.tudor@blackrock.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "brett@stippichdesign.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "tbrandes@unum.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "timothy.hogan@uhsinc.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "dennis.mccafferty@nbcuni.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lissette.nale@merck.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <lissette.nale@merck.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lee.hebert@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "kath.jones@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "john.rankin@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "errol.barnaby@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT019.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "suzanne_swartley@cable.comcast.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "rschloss@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CB1PEPF00002060.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ishekaroff@itwconsulting.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "dominic@pipedrive.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "irina.berdisa@automationhero.ai": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kyle@mayerlandscapes.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM11FT041.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cheryl.reed@amaisd.org": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "shree.vikas@conocophillips.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CO1NAM11FT009.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "charles.gaal@ngc.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <charles.gaal@ngc.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "louisa.ruscitto@usbank.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jen@inkhouse.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kstratford@calibergroup.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ksalerno@gardenfreshcorp.com": {
+        "lionfish": {
+            "status": "unknown",
+            "reason": "unknown"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unavailable_smtp"
+        }
+    },
+    "al.stepan@svn.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jody.garey@mckesson.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "paul.bocking@natwest.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <paul.bocking@natwest.com> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "ben.muhr@henryschein.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "vcotte@salesforce.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "david.wagner@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "marie_lanzalotti@cable.comcast.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "julie.parsonage@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "diana.mcchristian@wal-mart.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "greg.schimmel@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT021.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jason.zylka@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM12FT064.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "brant.zwiefel@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CB1PEPF00003669.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "renee_quesenberry@cable.comcast.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "suzanne.hurley@connectus.org": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM10FT009.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jgarand@connect5000.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "eric@pgloan.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM10FT038.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "sonya@letsvidya.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Mail rejected by <Zoho Mail> for policy reasons. We generally do not accept email from dynamic IP's as they are typically used to deliver unauthenticated SMTP e-mail to an Internet mail server. http://www.spamhaus.org maintains lists of dynamic and residential IP addresses. If you are not an email/network admin please contact your E-mail/Internet Service Provider for help. Email/network admins, please contact <support@zohomail.com> for email delivery information and support"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "tcourtney@thecourtneygroup.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT052.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gsdewey4@astonprop.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Sender () has no A, AAAA, or MX DNS records."
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "rscott@codellconstruction.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Sender () has no A, AAAA, or MX DNS records."
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mark.a.grantham310@gmail.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "susan.clark@renaissanceins.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "tdolan@integratedinsight.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kristen.dobbs@hs2solutions.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT057.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "michelle@medicalbillingofct.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "tomissa.smittendorf@kellogg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "nancy.farrell@blackrock.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "katherine.lorenzo@adp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "alessandro.mandarini@blackrock.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "dave.myerson@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "evan_kim@amat.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "julio.salazar@uk.bp.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [AM5EUR03FT053.eop-EUR03.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lee.rycraft@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "michele.keach@merck.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <michele.keach@merck.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cheryl.lander@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "courtney.a.harbin@aexp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "karin.nassif@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "divya.gupta@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "raimondo.ja@pg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "mir.ti.1@pg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "cori.reich@mckesson.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "katya.homyakova@bankofamerica.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "adamb@pmamediagroup.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [SN1NAM02FT0055.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "stewart@ecoeats.uk": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "john.weller@broadlume.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "paul.coggins@adludio.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gmarinopoulos@infocuscapitalpartners.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.3.0 182.185.164.83 Rejected - see http://www.spamhaus.org"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jmenke@carrollbradford.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "jmenke@carrollbradford.com will relay to a client address"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "joao@hotelurbano.com.br": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "nirav.shah@forcepoint.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "nola.newcomb@bwpmlp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "panthony@etmc.org": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <panthony@etmc.org> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "glawrence@irvingisd.net": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "megha.kurup@mouser.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cfike@baptisthealthsystem.com": {
+        "lionfish": {
+            "status": "unknown",
+            "reason": "unknown"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "adomaitis_roland@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <adomaitis_roland@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "evan@raytheon.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "gloria.pualani@ngc.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <gloria.pualani@ngc.com> ok"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "yousef_diab@merck.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <yousef_diab@merck.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "wendy@cplglaw.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "swapna.oundhakar@adp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "richard.c.compton@aexp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "agnes_lee@amat.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "adrienne.behmke@aes.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CO1NAM11FT034.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "tracy.orizapreciado@adp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "esha.maheshwari@capitalone.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "william_iles@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "william.herring@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM12FT034.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jagadish_velaga@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "robin.kardy@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM12FT041.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jennifer.l.marrott@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ali_altalib@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "tdunn@grove-marketing.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM12FT065.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "johannes.schneebacher@aequitec.ch": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ewilkinson@gofarmersbank.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "ewilkinson@gofarmersbank.com will relay to a client address"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "laurent@eventtia.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "scott.rickards@worldswaterfund.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lpardinas@santafeconstructions.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT011.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "michelle.ryman@wendys.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jean@quinnshop.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "henrik.stenmo@getinge.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [GmGedHN9OoSNGiHAvHmbZQ.de37]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kevin.montpelier@valero.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "tcrummy@wm.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "calhount@synnex.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.0 ETP202 Your IP 182.185.164.83 is listed by Spamhaus. Please see http://www.spamhaus.org/query/ if you feel this is in error - 147E08741C5E88B26bfaa5064"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "nicola.silk@northonetv.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "Recipient <nicola.silk@northonetv.com> OK"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "tluetkemeyer@purkpc.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "Recipient <tluetkemeyer@purkpc.com> OK"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cpalmatier@stone-coast.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [L7BD9TI2MHOKa0pCsddGpQ.us590]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "brent@fmprojects.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM04FT047.eop-NAM04.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "vkrivtso@ford.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "laura.renger@sce.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "emily.hunger@viacom.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "ravi.vish@henryschein.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "chendry@travelers.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "carlos.gato@uhsinc.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "julie.neuburger@cox.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "aalkema@utah.gov": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mark.braswell@tn.gov": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "yasmine.karim@nbcuni.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 No such user - pp"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "jtaylor2@humana.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "celia.kohl@nbcuni.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "bohdan.wolosiuk@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "george.altmeyer@baml.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "larry_green@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "olga.czabaj-shetty@baml.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "dgloges@fedex.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "md@prospecthunter.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "samantha@brittain.co.uk": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CWLGBR01FT019.eop-gbr01.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "linda@adszeal.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "Accepted"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "james@luminance.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <james@luminance.com> OK"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "andre@arksolvers.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM04FT017.eop-NAM04.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "amanda.falvey-wood@sabre.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "dmitry.ushakov@emerson.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "gruwell-janine@aramark.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM10FT034.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "drozdowski-robert@aramark.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM10FT035.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "matt.hanusa@emerson.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "vpetravicz@dspins.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [0OIDSw0jMzm-3KCYyHci7g.us662]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "bungerbuehler@asapevents.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sarcone@dmww.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM3GCC02FT038.eop-gcc02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jtalbot@inventables.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jill@thetaelectric.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "benjamin.suredam@cgi.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "samit.unni@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sean.dye@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "abrey@humana.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "adrian.walkling@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "victoria.harper-norman@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "elise_cocks@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "rickliev@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CY4PEPF00004D3C.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "preet.prasannan@blippar.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "steve@meghanfabulous.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "michael.liu@jcetglobal.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [PSAAPC01FT011.eop-APC01.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ariela.spartz@pwc.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "ckellner@everfi.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "aymard@ausum.vc": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "andrea.kellett@trimarancapital.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [m34eUkqMO_qrKhTrW2Tz9g.us133]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "jeremy@northisland.net": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "david@crabappleroofing.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN1NAM02FT063.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "debra@southlandexteriors.net": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM3NAM02FT036.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "anna.brewer@insperity.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT006.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "merry.naude@usrenalcare.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [vdJdy2uzNdeFpyvakvz_9g.us527]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "jius@amgen.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT032.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "carina.gutman@macys.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "ross_tamra_ann_pettigrew@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <ross_tamra_ann_pettigrew@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "vincent.chen@bms.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [SN1NAM02FT0010.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kkirk@carnival.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [SN1NAM02FT0064.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "anne.hall@meritain.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [oSNiCJrRMoGdry2HK1n0Dg.us645]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "blake.lavender@ripcordsolutions.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "barkley.w.dean@salesforce.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "lauren.freeman@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kberling@neyer.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT019.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lisa.b.mccarthy@ampf.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <lisa.b.mccarthy@ampf.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "soheb.desai@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gregg.ireland@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jonathan.elmore@aexp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "alexandre.villeneuve@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT057.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "andres.gonzalez@gs.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "timotheou.d@pg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "mwright@humana.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mark@iceberg-digital.co.uk": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [LO2GBR01FT004.eop-gbr01.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lee@citizennet.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "yvan.munck@informa.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [u1j4yNTuNy6MMxLo0FAflQ.us330]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "sbrookby@pendo.io": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "gregor.isbister@blis.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.1 <gregor.isbister@blis.com>: Recipient address rejected: Mail from <182.185.164.83> was refused due to the sender IP found in ERS-DUL. For details, query the IP reputation on https://www.ers.trendmicro.com/."
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "j.armstrong@valorcommunities.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "tblaschka@ubicquia.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM04FT052.eop-NAM04.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mike.farrell@greenleads.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "aavakian@northhill.org": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "aavakian@northhill.org will relay to a client address"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "francesco@clarksbotanicals.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jane.grant@tylertech.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "v.chen@tcu.edu": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "greg.hill@txstate.edu": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM04FT043.eop-NAM04.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "scottwest@azz.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [u-DMpEhnMq6cjWTTPbipeA.us439]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "chuck.waimon@fritolay.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM12FT015.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "bill.heatherwick@emerson.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "craig.galan@bms.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN1NAM02FT034.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ddahlberg@bitsighttech.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ppremakumar@onshape.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <ppremakumar@onshape.com> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jessica@publicprofit.net": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "bart.van.der.erve@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jphuloria@humana.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "harmeet.chopra@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "lorrie.grant@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "brian.lorenzetti@lmco.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "fae.wooding@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "hala.khalifa1@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM12FT006.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "madelyn.lando@wellsfargo.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "dan@leadfinancialgroup.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "alissa@thinkbasis.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jszarek@bacar.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "jszarek@bacar.com will relay to a client address"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "karen.young@ouithepeople.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "jagadeesh@nutanix.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "dennisle@synnex.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.0 ETP202 Your IP 182.185.164.83 is listed by Spamhaus. Please see http://www.spamhaus.org/query/ if you feel this is in error - B1FF06549A0598B2675550df5"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "buechler_allen_l@lilly.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <buechler_allen_l@lilly.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ernest.fusco@bms.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN1NAM02FT022.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "nrogers@claruscommerce.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT032.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "molenyk@hoffman-development.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "Recipient <molenyk@hoffman-development.com> OK"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "andy@aaronchang.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "krista.modtland@uhsinc.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "christine.waldbeser@adp.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "men-ching.luk@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "todd.hein@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "abdullah.qarwan@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kris.ross@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "davidbrown@catholichealth.net": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "gvaught@humana.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kevin.townsend@pfizer.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "david.rawlinson@bt.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [VE1EUR02FT066.eop-EUR02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "craig.hempstead@goldmansachs.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ghiggins@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CB1PEPF0000205F.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "anne.vu@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "ksiegfried@humana.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "keppens.m@pg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "ravi.gopalan@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT066.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "wendy_mccain@freddiemac.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "suehar@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CD1PEPF000006AF.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mikbeard@microsoft.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CB1PEPF0000205F.namprd00.prod.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "pat.mitchell@costcotravel.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN1NAM02FT003.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "jon.d.cocks@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ryan@tridentprime.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM12FT052.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kevinengland@vonazon.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM10FT010.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "rsteinberg@upsidedownsupply.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Mail rejected by <Zoho Mail> for policy reasons. We generally do not accept email from dynamic IP's as they are typically used to deliver unauthenticated SMTP e-mail to an Internet mail server. http://www.spamhaus.org maintains lists of dynamic and residential IP addresses. If you are not an email/network admin please contact your E-mail/Internet Service Provider for help. Email/network admins, please contact <support@zohomail.com> for email delivery information and support"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "sara.willen@soydelites.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "roy.salsinha@carmocapital.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM04FT056.eop-NAM04.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "mlarkin@working-capital.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.1 Relaying denied"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "erin.bickford@mineraltree.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "curtis@sunwdw.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT030.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sprice@qumulo.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "pauld@childabuseqc.org": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "jbrower@signalogic.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "ramzi.alqassab@sabre.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "collingwood-scott@aramark.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM10FT035.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "todd.davidson@bms.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [SN1NAM02FT0051.eop-nam02.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "sgeorgalos@scottishamerican.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "damian@bedemco.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM10FT023.eop-nam10.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "david.schmitt@merck.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <david.schmitt@merck.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "dnoonan@rednucleus.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "zen.mimecast.org https://www.spamhaus.org/query/ip/182.185.164.83. - https://community.mimecast.com/docs/DOC-1369#550 [n-0nPpLjM5C5McerZz5ZiQ.us597]"
+        },
+        "usebouncer": {
+            "status": "unknown",
+            "reason": "unknown"
+        }
+    },
+    "sperryb@amgen.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [BN8NAM11FT051.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "colleen@mhreinc.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "quin.gardner@ampf.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <quin.gardner@ampf.com> ok"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "bkshea@statestreet.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "alink@mgmresorts.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CO1NAM11FT055.eop-nam11.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "neha.schanze@nike.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "christine.loba@oracle.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "cgirod@salesforce.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "denise.assumpcao@nbcuni.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "geoff.tofield@nbcuni.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "irfan.zia@americanexpress.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "david.sedlak@walgreens.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "recipient <david.sedlak@walgreens.com> ok"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "dan.frahm@pepsico.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.7.606 Access denied, banned sending IP [182.185.164.83]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM12FT045.eop-nam12.prod.protection.outlook.com]"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "rbechtel@apple.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "5.1.1 User Unknown"
+        },
+        "usebouncer": {
+            "status": "undeliverable",
+            "reason": "rejected_email"
+        }
+    },
+    "david.m.schulte@boeing.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    },
+    "kenner.r@pg.com": {
+        "lionfish": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    }
+}

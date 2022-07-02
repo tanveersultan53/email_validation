@@ -1,0 +1,22 @@
+{
+    "alastair.sinclair@lloydsbanking.com": {
+        "lionfish": {
+            "status": "undeliverable",
+            "reason": "Service Temporarily Unavailable"
+        },
+        "usebouncer": {
+            "status": "risky",
+            "reason": "low_deliverability"
+        }
+    },
+    "al.stepan@svn.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    }
+}

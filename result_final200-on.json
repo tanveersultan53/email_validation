@@ -1,0 +1,12 @@
+{
+    "al.stepan@svn.com": {
+        "lionfish": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        },
+        "usebouncer": {
+            "status": "deliverable",
+            "reason": "accepted_email"
+        }
+    }
+}

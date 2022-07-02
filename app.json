@@ -1,0 +1,338 @@
+[
+    {
+        "email": "rachel@tmladvertising.com",
+        "email_host": "alt3.aspmx.l.google.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 OK p23-20020a2e9ad7000000b00251fd8a399dsi25708408ljj.420 - gsmtp'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=alt3.aspmx.l.google.com, priority=10, ttl=-1",
+            "ttl": -1,
+            "priority": 10
+        }
+    },
+    {
+        "email": "jkatz@tacticalsales.com",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b'5.7.606 Access denied, banned sending IP [116.58.62.58]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [YT3CAN01FT019.eop-CAN01.prod.protection.outlook.com]'",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "udeme@superpow.app",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b\"5.1.1 The email account that you tried to reach does not exist. Please try\\n5.1.1 double-checking the recipient's email address for typos or\\n5.1.1 unnecessary spaces. Learn more at\\n5.1.1  https://support.google.com/mail/?p=NoSuchUser hc20-20020a170907169400b007075a3f9afbsi24286415ejc.377 - gsmtp\"",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "emily.gumpel@axiell.com",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b'5.7.606 Access denied, banned sending IP [116.58.62.58]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [VE1EUR02FT037.eop-EUR02.prod.protection.outlook.com]'",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "megan.bearry@120water.com",
+        "email_host": "aspmx.l.google.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 OK 2-20020a056000154200b0021854c816d0si8449461wry.913 - gsmtp'",
+        "account": {
+            "role": [
+                "me"
+            ],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=aspmx.l.google.com, priority=1, ttl=-1",
+            "ttl": -1,
+            "priority": 1
+        }
+    },
+    {
+        "email": "sean@griffinstucco.com",
+        "email_host": "in-mig04.hes.trendmicro.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 Ok'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=in-mig04.hes.trendmicro.com, priority=10, ttl=-1",
+            "ttl": -1,
+            "priority": 10
+        }
+    },
+    {
+        "email": "snovak@hq.bill.com",
+        "email_host": "mxa-0049a501.gslb.pphosted.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 Recipient ok'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=mxa-0049a501.gslb.pphosted.com, priority=10, ttl=-1",
+            "ttl": -1,
+            "priority": 10
+        }
+    },
+    {
+        "email": "frate@buckleyking.com",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b'Service unavailable; Client host [116.58.62-58.nexlinx.net.pk] blocked using\\nBarracuda Reputation;\\nhttp://www.barracudanetworks.com/reputation/?r=1&ip=116.58.62.58'",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "matt.kolander@openworksweb.com",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b'5.7.606 Access denied, banned sending IP [116.58.62.58]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [MW2NAM10FT056.eop-nam10.prod.protection.outlook.com]'",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "kathleen.anderson@ttuhsc.edu",
+        "email_host": "mxa-00076201.gslb.pphosted.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 Recipient ok'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=mxa-00076201.gslb.pphosted.com, priority=10, ttl=-1",
+            "ttl": -1,
+            "priority": 10
+        }
+    },
+    {
+        "email": "phani_potturu@eogresources.com",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b'5.7.606 Access denied, banned sending IP [116.58.62.58]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [DM6NAM11FT020.eop-nam11.prod.protection.outlook.com]'",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "matthew.baker@ipaper.com",
+        "email_host": "alt3.us.email.fireeyecloud.com",
+        "status_code": "deliverable",
+        "reason": "b'2.0.0 RCPT TO accepted'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=alt3.us.email.fireeyecloud.com, priority=40, ttl=-1",
+            "ttl": -1,
+            "priority": 40
+        }
+    },
+    {
+        "email": "jrodenas@amgen.com",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b'5.7.606 Access denied, banned sending IP [116.58.62.58]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1430) [CO1NAM11FT008.eop-nam11.prod.protection.outlook.com]'",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "hala.tayyarah@sc.com",
+        "email_host": "cluster4.us.messagelabs.com",
+        "status_code": "deliverable",
+        "reason": "b'OK'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=cluster4.us.messagelabs.com, priority=10, ttl=-1",
+            "ttl": -1,
+            "priority": 10
+        }
+    },
+    {
+        "email": "j.kimball@lilly.com",
+        "email_host": "mail141prde2.xh1.lilly.com",
+        "status_code": "deliverable",
+        "reason": "b'recipient <j.kimball@lilly.com> ok'",
+        "account": {
+            "role": [
+                "all"
+            ],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=mail141prde2.xh1.lilly.com, priority=30, ttl=-1",
+            "ttl": -1,
+            "priority": 30
+        }
+    },
+    {
+        "email": "stacia_bradley@comcast.com",
+        "email_host": "mxa-00143702.gslb.pphosted.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 Recipient ok'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=mxa-00143702.gslb.pphosted.com, priority=5, ttl=-1",
+            "ttl": -1,
+            "priority": 5
+        }
+    },
+    {
+        "email": "nathan@discoverorganizing.com",
+        "email_host": "alt2.aspmx.l.google.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 OK m11-20020a056402510b00b004314b858d28si16618214edd.11 - gsmtp'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=alt2.aspmx.l.google.com, priority=30, ttl=-1",
+            "ttl": -1,
+            "priority": 30
+        }
+    },
+    {
+        "email": "tim@fyxation.com",
+        "email_host": "aspmx.l.google.com",
+        "status_code": "deliverable",
+        "reason": "b'2.1.5 OK x15-20020adfec0f000000b0020fef132607si13621617wrn.333 - gsmtp'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=aspmx.l.google.com, priority=0, ttl=-1",
+            "ttl": -1,
+            "priority": 0
+        }
+    },
+    {
+        "email": "curtis.baron@barclays.com",
+        "email_host": null,
+        "status_code": "undeliverable",
+        "reason": "b'Service Temporarily Unavailable'",
+        "account": {
+            "role": "",
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "",
+            "record": ""
+        },
+        "provider": null
+    },
+    {
+        "email": "elizabeth.cardozo@lloydsbanking.com",
+        "email_host": "cluster1.eu.messagelabs.com",
+        "status_code": "deliverable",
+        "reason": "b'OK'",
+        "account": {
+            "role": [],
+            "disabled": "unknown",
+            "fullMailbox": "unknown"
+        },
+        "dns": {
+            "type": "MX",
+            "record": "<ares_query_mx_result> host=cluster1.eu.messagelabs.com, priority=10, ttl=-1",
+            "ttl": -1,
+            "priority": 10
+        }
+    }
+]
